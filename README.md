@@ -3,7 +3,7 @@
 The Eye-Exercise was created for MITxPro full-stack web development program. </br>
 
 <a href="https://foreverphoenix21.github.io/Eye-Exercise/">
-  <img src="RealTimeBus.png" alt="Eye Exercise link" width="200" /> </a
+  <img src="Eyes.png" alt="Eye Exercise link" width="200" /> </a
 >
 
 ## Description:
