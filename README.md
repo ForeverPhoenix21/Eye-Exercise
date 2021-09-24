@@ -8,7 +8,7 @@ The Eye-Exercise was created for MITxPro full-stack web development program. </b
 
 ## Description:
 
-<p> The Eye-Exercise is a project with two eyes that follows your mouse movment. Created in JavaScript and CSS, this webpage is a dynamic experience.</p>
+<p> The Eye-Exercise is a project with two eyes that follows your mouse movement. Created in JavaScript and CSS, this webpage is a dynamic experience.</p>
 
 ## Installation:
 
