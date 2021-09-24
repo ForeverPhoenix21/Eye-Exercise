@@ -26,7 +26,7 @@ The Eye-Exercise was created for MITxPro full-stack web development program. </b
 ***
 
 **<p> Future updates: </p>**
-- Upage the CSS and add more design to the eyes.
+- Update the CSS and add more design to the eyes and background.
 - Create additional set of eyes and shapes with a mouse moving element.  
 - Create a mouse trail element. Have the eyes folow the mouse trail.
 
